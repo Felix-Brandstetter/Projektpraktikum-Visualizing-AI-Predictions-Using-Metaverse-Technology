@@ -1,0 +1,138 @@
+minutes_from_start,start,ziel
+1,Flur 4. OG Uebergang,Treppenhaus 4. OG
+2,Treppenhaus 4. OG,Treppenhaus 5. OG
+8,Treppenhaus 5. OG,5C-05.2
+13,5C-05.2,Vorraum 5C-15
+14,Vorraum 5C-15,Treppenhaus 5. OG
+15,Treppenhaus 5. OG,5C-05.2
+17,5C-05.2,Flur 5. OG
+18,Flur 5. OG,Treppenhaus 4. OG
+52,Treppenhaus 4. OG,Flur 4. OG Uebergang
+54,Flur 4. OG Uebergang,5C-05.2
+62,5C-05.2,Flur 5. OG
+64,Flur 5. OG,Kueche 5. OG
+65,Kueche 5. OG,Treppenhaus 5. OG
+179,Treppenhaus 5. OG,5C-05.2
+180,5C-05.2,Treppenhaus 5. OG
+181,Treppenhaus 5. OG,Damen WC 5. OG
+182,Damen WC 5. OG,Treppenhaus 5. OG
+209,Treppenhaus 5. OG,5C-05.2
+211,5C-05.2,Kueche 5. OG
+251,Kueche 5. OG,Treppenhaus 5. OG
+253,Treppenhaus 5. OG,5C-05.2
+254,5C-05.2,Treppenhaus 5. OG
+256,Treppenhaus 5. OG,Kueche 5. OG
+257,Kueche 5. OG,Vorraum 5C-05.3
+385,Vorraum 5C-05.3,5C-05.2
+388,5C-05.2,Damen WC 5. OG
+389,Damen WC 5. OG,Vorraum 5C-05.3
+416,Vorraum 5C-05.3,5C-05.2
+417,5C-05.2,Treppenhaus 5. OG
+419,Treppenhaus 5. OG,Kueche 5. OG
+420,Kueche 5. OG,Vorraum 5C-05.3
+506,Vorraum 5C-05.3,5C-05.2
+508,5C-05.2,Treppenhaus 4. OG
+1458,Treppenhaus 4. OG,Flur 4. OG Uebergang
+1459,Flur 4. OG Uebergang,Treppenhaus 4. OG
+1460,Treppenhaus 4. OG,Flur 5. OG
+1502,Flur 5. OG,5C-05.2
+1504,5C-05.2,Kueche 5. OG
+1506,Kueche 5. OG,Treppenhaus 5. OG
+1520,Treppenhaus 5. OG,5C-05.2
+1522,5C-05.2,Kueche 5. OG
+1524,Kueche 5. OG,Treppenhaus 5. OG
+1560,Treppenhaus 5. OG,5C-05.2
+1561,5C-05.2,Damen WC 5. OG
+1563,Damen WC 5. OG,Treppenhaus 5. OG
+1584,Treppenhaus 5. OG,5C-05.2
+1684,5C-05.2,Kueche 5. OG
+1685,Kueche 5. OG,Treppenhaus 5. OG
+1687,Treppenhaus 5. OG,5C-05.2
+1688,5C-05.2,Treppenhaus 5. OG
+1689,Treppenhaus 5. OG,Kueche 5. OG
+1691,Kueche 5. OG,5C-05.2
+1765,5C-05.2,Flur 5. OG
+1785,Flur 5. OG,5C-02.1
+1787,5C-02.1,5C-05.2
+1789,5C-05.2,Treppenhaus 5. OG
+1790,Treppenhaus 5. OG,Damen WC 5. OG
+1791,Damen WC 5. OG,
+1792,,5C-05.2
+1851,5C-05.2,Treppenhaus 5. OG
+1852,Treppenhaus 5. OG,Kueche 5. OG
+1854,Kueche 5. OG,5C-05.2
+1869,5C-05.2,Treppe
+1870,Treppe,Flur 4. OG Uebergang
+2891,Flur 4. OG Uebergang,Treppe
+2892,Treppe,5C-05.2
+2963,5C-05.2,Flur 5. OG
+2964,Flur 5. OG,Flur 4. OG
+3001,Flur 4. OG,4C-05
+3004,4C-05,5C-05.2
+3006,5C-05.2,Flur 5. OG
+3008,Flur 5. OG,Kueche 5. OG
+3009,Kueche 5. OG,Treppenhaus 5. OG
+3040,Treppenhaus 5. OG,5C-05.2
+3041,5C-05.2,Damen WC 5. OG
+3043,Damen WC 5. OG,Treppenhaus 5. OG
+3090,Treppenhaus 5. OG,5C-05.2
+3092,5C-05.2,Kueche 5. OG
+3128,Kueche 5. OG,Flur 5. OG
+3131,Flur 5. OG,5C-05.2
+3132,5C-05.2,Flur 5. OG
+3134,Flur 5. OG,Kueche 5. OG
+3135,Kueche 5. OG,Flur 5. OG
+3156,Flur 5. OG,5C-05.2
+3158,5C-05.2,5C-01.1
+3176,5C-01.1,5C-05.2
+3178,5C-05.2,Treppenhaus 5. OG
+3180,Treppenhaus 5. OG,Kueche 5. OG
+3181,Kueche 5. OG,Flur 5. OG
+3246,Flur 5. OG,5C-05.2
+3247,5C-05.2,Treppenhaus 5. OG
+3248,Treppenhaus 5. OG,Damen WC 5. OG
+3249,Damen WC 5. OG,Treppenhaus 5. OG
+3340,Treppenhaus 5. OG,5C-05.2
+3341,5C-05.2,Flur 5. OG
+3342,Flur 5. OG,Kueche 5. OG
+3344,Kueche 5. OG,5C-05.2
+3372,5C-05.2,Flur 5. OG
+3376,Flur 5. OG,Vorraum 5C-15
+3377,Vorraum 5C-15,Treppenhaus 5. OG
+3396,Treppenhaus 5. OG,5C-05.2
+3397,5C-05.2,Treppe
+3406,Treppe,4C-11
+3407,4C-11,Flur 4. OG
+4308,Flur 4. OG,Flur 4. OG Uebergang
+4309,Flur 4. OG Uebergang,Treppenhaus 4. OG
+4310,Treppenhaus 4. OG,Flur 5. OG
+4342,Flur 5. OG,5C-05.2
+4343,5C-05.2,Flur 5. OG
+4420,Flur 5. OG,5C-01.1
+4421,5C-01.1,Vorraum 5C-05.3
+4422,Vorraum 5C-05.3,5C-05.2
+4424,5C-05.2,Kueche 5. OG
+4426,Kueche 5. OG,Treppenhaus 5. OG
+4430,Treppenhaus 5. OG,5C-05.2
+4431,5C-05.2,Flur 5. OG
+4487,Flur 5. OG,5C-01.1
+4488,5C-01.1,5C-05.2
+4492,5C-05.2,Damen WC 5. OG
+4493,Damen WC 5. OG,5C-05.2
+4525,5C-05.2,Treppenhaus 5. OG
+4567,Treppenhaus 5. OG,Kueche 5. OG
+4568,Kueche 5. OG,Vorraum 5C-05.3
+4585,Vorraum 5C-05.3,5C-05.2
+4586,5C-05.2,Treppenhaus 5. OG
+4588,Treppenhaus 5. OG,Kueche 5. OG
+4589,Kueche 5. OG,Flur 5. OG
+4696,Flur 5. OG,5C-05.2
+4697,5C-05.2,Treppenhaus 5. OG
+4698,Treppenhaus 5. OG,Damen WC 5. OG
+4699,Damen WC 5. OG,
+4700,,5C-05.2
+4748,5C-05.2,Treppenhaus 5. OG
+4750,Treppenhaus 5. OG,Kueche 5. OG
+4751,Kueche 5. OG,Flur 5. OG
+4856,Flur 5. OG,5C-05.2
+4858,5C-05.2,Flur 4. OG Uebergang

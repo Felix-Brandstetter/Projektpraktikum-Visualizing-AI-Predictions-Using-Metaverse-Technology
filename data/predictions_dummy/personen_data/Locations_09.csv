@@ -1,0 +1,84 @@
+minutes_from_start,start,ziel
+2,Flur 4. OG Uebergang,Flur 4. OG
+69,Flur 4. OG,4C-11
+70,4C-11,Treppenhaus 5. OG
+71,Treppenhaus 5. OG,Kueche 5. OG
+72,Kueche 5. OG,Treppenhaus 5. OG
+78,Treppenhaus 5. OG,4C-11
+79,4C-11,Treppe
+87,Treppe,5C-01.2
+88,5C-01.2,Flur 5. OG
+89,Flur 5. OG,4C-11
+105,4C-11,Treppenhaus 4. OG
+138,Treppenhaus 4. OG,Flur 4. OG Uebergang
+139,Flur 4. OG Uebergang,Treppenhaus 4. OG
+140,Treppenhaus 4. OG,4C-11
+141,4C-11,Herren WC 4. OG
+164,Herren WC 4. OG,4C-11
+165,4C-11,Flur 4. OG
+166,Flur 4. OG,5C-05.2
+175,5C-05.2,Treppenhaus 5. OG
+183,Treppenhaus 5. OG,4C-11
+184,4C-11,Treppe
+189,Treppe,5C-05.2
+190,5C-05.2,
+200,,4C-11
+201,4C-11,Treppe
+232,Treppe,Kueche 5. OG
+233,Kueche 5. OG,
+235,,4C-11
+236,4C-11,Treppenhaus 5. OG
+237,Treppenhaus 5. OG,Kueche 5. OG
+238,Kueche 5. OG,Treppenhaus 5. OG
+268,Treppenhaus 5. OG,4C-11
+269,4C-11,Treppenhaus 4. OG
+270,Treppenhaus 4. OG,5C-01.1
+288,5C-01.1,
+316,,4C-11
+318,4C-11,Flur 5. OG
+325,Flur 5. OG,5C-05.2
+328,5C-05.2,4C-11
+329,4C-11,Herren WC 4. OG
+330,Herren WC 4. OG,Flur 4. OG
+350,Flur 4. OG,4C-11
+351,4C-11,Treppenhaus 4. OG
+352,Treppenhaus 4. OG,5C-05.2
+357,5C-05.2,Treppe
+383,Treppe,4C-11
+384,4C-11,
+386,,Kueche 5. OG
+387,Kueche 5. OG,Flur 4. OG
+511,Flur 4. OG,4C-11
+512,4C-11,Treppenhaus 4. OG
+1435,Treppenhaus 4. OG,Flur 4. OG Uebergang
+1453,Flur 4. OG Uebergang,4C-11
+1454,4C-11,Treppenhaus 5. OG
+1533,Treppenhaus 5. OG,5C-01.1
+1534,5C-01.1,Flur 5. OG
+1535,Flur 5. OG,4C-11
+1540,4C-11,Kueche 5. OG
+1599,Kueche 5. OG,5C-01.1
+1600,5C-01.1,Treppenhaus 4. OG
+1601,Treppenhaus 4. OG,4C-11
+1602,4C-11,Herren WC 4. OG
+1604,Herren WC 4. OG,4C-11
+1643,4C-11,
+1681,,Kueche 5. OG
+1682,Kueche 5. OG,Treppenhaus 5. OG
+1684,Treppenhaus 5. OG,4C-11
+1685,4C-11,Treppenhaus 4. OG
+1687,Treppenhaus 4. OG,Kueche 5. OG
+1775,Kueche 5. OG,4C-11
+1776,4C-11,Flur 5. OG
+1821,Flur 5. OG,5C-01.1
+1822,5C-01.1,
+1823,,4C-11
+1825,4C-11,Herren WC 4. OG
+1826,Herren WC 4. OG,4C-11
+1836,4C-11,Kueche 5. OG
+1837,Kueche 5. OG,4C-11
+1937,4C-11,Flur 4. OG
+1938,Flur 4. OG,5C-05.2
+1953,5C-05.2,Treppe
+1964,Treppe,4C-11
+1965,4C-11,Flur 4. OG Uebergang

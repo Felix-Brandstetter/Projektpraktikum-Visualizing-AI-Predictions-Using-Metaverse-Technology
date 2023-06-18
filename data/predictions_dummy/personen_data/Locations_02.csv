@@ -1,0 +1,55 @@
+minutes_from_start,start,ziel
+1,Flur 4. OG Uebergang,Treppenhaus 4. OG
+2,Treppenhaus 4. OG,Flur 5. OG
+144,Flur 5. OG,5C-01.2
+145,5C-01.2,Kueche 5. OG
+147,Kueche 5. OG,Flur 5. OG
+154,Flur 5. OG,5C-01.2
+155,5C-01.2,5C-05.2
+163,5C-05.2,Flur 5. OG
+190,Flur 5. OG,5C-01.2
+204,5C-01.2,5C-02.1
+205,5C-02.1,Flur 5. OG
+240,Flur 5. OG,5C-01.2
+241,5C-01.2,Flur 5. OG
+242,Flur 5. OG,Treppenhaus 4. OG
+277,Treppenhaus 4. OG,Flur 4. OG Uebergang
+279,Flur 4. OG Uebergang,
+280,,5C-01.2
+282,5C-01.2,Flur 5. OG
+283,Flur 5. OG,Damen WC 5. OG
+284,Damen WC 5. OG,Flur 5. OG
+340,Flur 5. OG,5C-01.2
+341,5C-01.2,Flur 5. OG
+342,Flur 5. OG,Treppenhaus 4. OG
+376,Treppenhaus 4. OG,Flur 4. OG Uebergang
+377,Flur 4. OG Uebergang,Treppenhaus 4. OG
+378,Treppenhaus 4. OG,Flur 5. OG
+401,Flur 5. OG,5C-01.2
+404,5C-01.2,Kueche 5. OG
+405,Kueche 5. OG,5C-01.2
+557,5C-01.2,
+558,,Flur 4. OG Uebergang
+1490,Flur 4. OG Uebergang,5C-01.2
+1491,5C-01.2,5C-05.2
+1506,5C-05.2,5C-01.2
+1515,5C-01.2,Flur 5. OG
+1516,Flur 5. OG,Kueche 5. OG
+1678,Kueche 5. OG,5C-01.2
+1680,5C-01.2,
+1681,,Flur 4. OG Uebergang
+1720,Flur 4. OG Uebergang,Treppenhaus 4. OG
+1721,Treppenhaus 4. OG,Flur 5. OG
+1722,Flur 5. OG,5C-01.2
+1725,5C-01.2,Damen WC 5. OG
+1726,Damen WC 5. OG,5C-01.2
+1772,5C-01.2,Flur 5. OG
+1773,Flur 5. OG,Kueche 5. OG
+1799,Kueche 5. OG,5C-01.2
+1804,5C-01.2,Vorraum 5C-15
+1805,Vorraum 5C-15,5C-01.2
+1820,5C-01.2,5C-05.2
+1832,5C-05.2,Flur 5. OG
+1995,Flur 5. OG,5C-01.2
+1996,5C-01.2,Treppenhaus 5. OG
+1997,Treppenhaus 5. OG,Flur 4. OG Uebergang

@@ -1,0 +1,157 @@
+minutes_from_start,start,ziel
+1,Flur 4. OG Uebergang,Flur 4. OG
+65,Flur 4. OG,4C-07.1
+68,4C-07.1,Kueche 5. OG
+69,Kueche 5. OG,Flur 4. OG
+82,Flur 4. OG,4C-07.1
+133,4C-07.1,4C-05
+134,4C-05,4C-07.1
+191,4C-07.1,Flur 4. OG
+192,Flur 4. OG,
+199,,5C-01.1
+236,5C-01.1,Kueche 5. OG
+237,Kueche 5. OG,Flur 5. OG
+238,Flur 5. OG,4C-07.1
+240,4C-07.1,Flur 4. OG
+241,Flur 4. OG,Damen WC 4. OG
+242,Damen WC 4. OG,Flur 4. OG
+267,Flur 4. OG,4C-07.1
+269,4C-07.1,Flur 5. OG
+279,Flur 5. OG,5C-02.1
+372,5C-02.1,4C-07.1
+373,4C-07.1,Flur 4. OG
+375,Flur 4. OG,Kueche 5. OG
+376,Kueche 5. OG,
+511,,4C-07.1
+513,4C-07.1,Damen WC 4. OG
+514,Damen WC 4. OG,4C-07.1
+526,4C-07.1,Flur 4. OG Uebergang
+1442,Flur 4. OG Uebergang,Flur 4. OG
+1500,Flur 4. OG,4C-07.1
+1533,4C-07.1,4C-05
+1560,4C-05,4C-07.1
+1561,4C-07.1,Treppenhaus 5. OG
+1562,Treppenhaus 5. OG,Kueche 5. OG
+1563,Kueche 5. OG,Treppenhaus 5. OG
+1564,Treppenhaus 5. OG,4C-07.1
+1604,4C-07.1,Treppe
+1607,Treppe,Vorraum 5C-15
+1614,Vorraum 5C-15,4C-07.1
+1615,4C-07.1,Flur 4. OG
+1619,Flur 4. OG,Vorraum 5C-15
+1642,Vorraum 5C-15,4C-07.1
+1643,4C-07.1,
+1686,,Kueche 5. OG
+1687,Kueche 5. OG,Flur 4. OG
+1691,Flur 4. OG,4C-07.1
+1693,4C-07.1,Damen WC 4. OG
+1694,Damen WC 4. OG,Flur 4. OG
+1736,Flur 4. OG,4C-07.1
+1737,4C-07.1,Flur 4. OG
+1738,Flur 4. OG,Flur 5. OG
+1759,Flur 5. OG,5C-02.1
+1760,5C-02.1,Flur 5. OG
+1761,Flur 5. OG,Flur 4. OG
+1781,Flur 4. OG,4C-07.1
+1782,4C-07.1,Flur 4. OG
+1785,Flur 4. OG,Vorraum 5C-15
+1787,Vorraum 5C-15,Flur 4. OG
+1866,Flur 4. OG,4C-07.1
+1868,4C-07.1,Kueche 5. OG
+1870,Kueche 5. OG,Flur 4. OG
+1873,Flur 4. OG,4C-07.1
+1874,4C-07.1,Flur 4. OG Uebergang
+1942,Flur 4. OG Uebergang,4C-07.1
+1964,4C-07.1,Damen WC 4. OG
+1977,Damen WC 4. OG,4C-07.1
+1978,4C-07.1,Flur 4. OG
+1979,Flur 4. OG,Flur 4. OG Uebergang
+2885,Flur 4. OG Uebergang,Flur 4. OG
+2972,Flur 4. OG,4C-07.1
+2973,4C-07.1,Treppe
+2981,Treppe,5C-02.1
+3011,5C-02.1,4C-07.1
+3012,4C-07.1,Flur 4. OG
+3014,Flur 4. OG,
+3015,,Kueche 5. OG
+3016,Kueche 5. OG,Flur 5. OG
+3017,Flur 5. OG,4C-07.1
+3022,4C-07.1,Flur 4. OG
+3023,Flur 4. OG,Damen WC 4. OG
+3024,Damen WC 4. OG,Flur 4. OG
+3042,Flur 4. OG,4C-07.1
+3043,4C-07.1,
+3047,,Vorraum 5C-15
+3048,Vorraum 5C-15,Treppenhaus 5. OG
+3049,Treppenhaus 5. OG,4C-07.1
+3124,4C-07.1,Kueche 5. OG
+3125,Kueche 5. OG,Treppenhaus 4. OG
+3149,Treppenhaus 4. OG,4C-07.1
+3151,4C-07.1,Flur 5. OG
+3169,Flur 5. OG,5C-01.1
+3182,5C-01.1,4C-07.1
+3183,4C-07.1,Treppe
+3192,Treppe,Damen WC 5. OG
+3193,Damen WC 5. OG,Treppe
+3208,Treppe,4C-07.1
+3209,4C-07.1,
+3210,,5C-05.2
+3219,5C-05.2,
+3292,,4C-07.1
+3294,4C-07.1,Damen WC 4. OG
+3295,Damen WC 4. OG,Flur 4. OG
+3319,Flur 4. OG,4C-07.1
+3320,4C-07.1,Treppe
+3321,Treppe,Kueche 5. OG
+3323,Kueche 5. OG,4C-07.1
+3349,4C-07.1,Treppe
+3365,Treppe,5C-05.2
+3367,5C-05.2,Flur 4. OG
+3400,Flur 4. OG,4C-07.1
+3401,4C-07.1,Treppenhaus 4. OG
+3402,Treppenhaus 4. OG,Flur 5. OG
+3408,Flur 5. OG,5C-02.1
+3409,5C-02.1,Flur 5. OG
+3410,Flur 5. OG,Treppenhaus 4. OG
+4317,Treppenhaus 4. OG,Flur 4. OG Uebergang
+4318,Flur 4. OG Uebergang,Flur 4. OG
+4325,Flur 4. OG,4C-07.1
+4326,4C-07.1,Flur 4. OG
+4336,Flur 4. OG,Flur 4. OG Uebergang
+4416,Flur 4. OG Uebergang,5C-01.1
+4417,5C-01.1,Flur 5. OG
+4418,Flur 5. OG,Flur 4. OG
+4419,Flur 4. OG,4C-07.1
+4420,4C-07.1,Flur 4. OG
+4423,Flur 4. OG,Kueche 5. OG
+4481,Kueche 5. OG,5C-01.1
+4482,5C-01.1,
+4484,,4C-07.1
+4485,4C-07.1,Treppenhaus 5. OG
+4486,Treppenhaus 5. OG,Kueche 5. OG
+4487,Kueche 5. OG,Flur 5. OG
+4488,Flur 5. OG,4C-07.1
+4524,4C-07.1,Treppenhaus 4. OG
+4571,Treppenhaus 4. OG,Kueche 5. OG
+4572,Kueche 5. OG,Flur 4. OG
+4573,Flur 4. OG,4C-07.1
+4574,4C-07.1,Flur 4. OG
+4575,Flur 4. OG,Damen WC 4. OG
+4576,Damen WC 4. OG,Treppenhaus 4. OG
+4608,Treppenhaus 4. OG,4C-07.1
+4639,4C-07.1,4C-05
+4640,4C-05,Flur 4. OG
+4775,Flur 4. OG,4C-07.1
+4776,4C-07.1,Flur 4. OG
+4777,Flur 4. OG,
+4778,,Vorraum 5C-15
+4781,Vorraum 5C-15,Flur 5. OG
+4782,Flur 5. OG,Flur 4. OG
+4790,Flur 4. OG,4C-07.1
+4791,4C-07.1,Flur 4. OG
+4793,Flur 4. OG,Kueche 5. OG
+4794,Kueche 5. OG,
+4844,,4C-07.1
+4846,4C-07.1,Damen WC 4. OG
+4847,Damen WC 4. OG,4C-07.1
+4853,4C-07.1,Flur 4. OG Uebergang

@@ -1,0 +1,71 @@
+minutes_from_start,start,ziel
+1,Flur 4. OG Uebergang,Flur 4. OG
+2,Flur 4. OG,Flur 5. OG
+12,Flur 5. OG,5C-01.2
+13,5C-01.2,Flur 5. OG
+17,Flur 5. OG,Vorraum 5C-15
+51,Vorraum 5C-15,5C-01.2
+52,5C-01.2,Flur 5. OG
+57,Flur 5. OG,Vorraum 5C-15
+106,Vorraum 5C-15,5C-01.2
+107,5C-01.2,Flur 5. OG
+108,Flur 5. OG,Kueche 5. OG
+144,Kueche 5. OG,5C-01.2
+145,5C-01.2,Herren WC 5. OG
+147,Herren WC 5. OG,Flur 5. OG
+229,Flur 5. OG,5C-01.2
+230,5C-01.2,Flur 5. OG
+231,Flur 5. OG,Treppenhaus 4. OG
+268,Treppenhaus 4. OG,Flur 4. OG Uebergang
+269,Flur 4. OG Uebergang,Flur 4. OG
+270,Flur 4. OG,Flur 5. OG
+282,Flur 5. OG,5C-01.2
+283,5C-01.2,Flur 5. OG
+293,Flur 5. OG,5C-02.1
+326,5C-02.1,5C-01.2
+329,5C-01.2,Herren WC 5. OG
+330,Herren WC 5. OG,5C-01.2
+380,5C-01.2,Flur 5. OG
+381,Flur 5. OG,Kueche 5. OG
+382,Kueche 5. OG,Flur 5. OG
+426,Flur 5. OG,5C-01.2
+427,5C-01.2,Flur 5. OG
+428,Flur 5. OG,Treppenhaus 4. OG
+532,Treppenhaus 4. OG,Flur 4. OG Uebergang
+535,Flur 4. OG Uebergang,5C-01.2
+537,5C-01.2,Flur 5. OG
+538,Flur 5. OG,Herren WC 5. OG
+539,Herren WC 5. OG,Flur 5. OG
+540,Flur 5. OG,5C-01.2
+541,5C-01.2,Treppenhaus 5. OG
+542,Treppenhaus 5. OG,Flur 4. OG Uebergang
+1429,Flur 4. OG Uebergang,Treppenhaus 4. OG
+1430,Treppenhaus 4. OG,Flur 5. OG
+1528,Flur 5. OG,5C-01.2
+1587,5C-01.2,Flur 5. OG
+1588,Flur 5. OG,Herren WC 5. OG
+1589,Herren WC 5. OG,Flur 5. OG
+1614,Flur 5. OG,5C-01.2
+1615,5C-01.2,Flur 5. OG
+1616,Flur 5. OG,Kueche 5. OG
+1620,Kueche 5. OG,5C-01.2
+1633,5C-01.2,5C-02.1
+1675,5C-02.1,5C-01.2
+1677,5C-01.2,Flur 4. OG Uebergang
+1711,Flur 4. OG Uebergang,Treppenhaus 4. OG
+1712,Treppenhaus 4. OG,Flur 5. OG
+1768,Flur 5. OG,5C-01.2
+1771,5C-01.2,Herren WC 5. OG
+1875,Herren WC 5. OG,5C-01.2
+1924,5C-01.2,5C-01.1
+1926,5C-01.1,5C-01.2
+1927,5C-01.2,5C-01.1
+1928,5C-01.1,Kueche 5. OG
+1930,Kueche 5. OG,Flur 5. OG
+1951,Flur 5. OG,5C-01.2
+1952,5C-01.2,Flur 5. OG
+1953,Flur 5. OG,Herren WC 5. OG
+1954,Herren WC 5. OG,Flur 5. OG
+1990,Flur 5. OG,5C-01.2
+1991,5C-01.2,Treppenhaus 5. OG
+1992,Treppenhaus 5. OG,Flur 4. OG Uebergang
