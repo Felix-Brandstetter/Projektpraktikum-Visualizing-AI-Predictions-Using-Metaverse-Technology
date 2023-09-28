@@ -1,5 +1,4 @@
 import pandas as pd
-<<<<<<< HEAD
 from src.GetRoom import *
 from pytorch_forecasting import TemporalFusionTransformer
 
@@ -18,13 +17,6 @@ def CreatePersonPredictions(best_model_path, val_dataloader, input_df):
     """
 
     
-=======
-from teamblue.src.GetRoom import *
-from pytorch_forecasting import TemporalFusionTransformer
-
-def CreatePersonPredictions(best_model_path, val_dataloader, input_df):
-    best_model_path
->>>>>>> 48356b7e9e2c429c30e06ae92529e55b235f8c67
     best_tft = TemporalFusionTransformer.load_from_checkpoint(best_model_path)
     raw_predictions = best_tft.predict(val_dataloader, mode="prediction", return_x=True, return_y=True, return_index=True, return_decoder_lengths=True)
     
@@ -93,11 +85,7 @@ def CreatePersonPredictions(best_model_path, val_dataloader, input_df):
     if(len(pivoted_df_room) != len(final_df_room)):
         print("Warning: Join dfs with different lengths! \nCreatePersonPredictions: Check the Join pivoted_df & final_df_room")
 
-<<<<<<< HEAD
     merged_df = pd.merge(pivoted_df_room, final_df_room, left_on=["index_join"], right_on=["index_join"], suffixes=('_actual', '_prediction'))
-=======
-    merged_df = pd.merge(pivoted_df_room, final_df_room, left_on=["index_join"], right_on=["index_join"], suffixes=('_actual', '_prediction'))#, " y_actual", "z_actual"])
->>>>>>> 48356b7e9e2c429c30e06ae92529e55b235f8c67
     merged_df
     person_df_extended = merged_df[['idx_prediction', "week_num", "day", "day_new", "hour", "minute", "x_actual", "y_actual", "z_actual", "room_actual", "x_prediction", "y_prediction",  "z_prediction", "room_prediction"]]
     person_df_extended
@@ -106,11 +94,7 @@ def CreatePersonPredictions(best_model_path, val_dataloader, input_df):
     ### Person DataFrame VR Team ###
     ################################
     
-<<<<<<< HEAD
     # Start Punkt mit Minuten Ablauf, einheitlich für alle Personen, evt Montag 8 Uhr morgen bis Freitag 18 Uhr
-=======
-    #Start Punkt mit Minuten Ablauf, einheitlich für alle Personen, evt Montag 8 Uhr morgen bis Freitag 18 Uhr
->>>>>>> 48356b7e9e2c429c30e06ae92529e55b235f8c67
     # Jeden Tag zwischen 8 Uhr und 18 Uhr (day:215 until 219)
     # Ort für None/no Room definieren
 
