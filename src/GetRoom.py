@@ -2,7 +2,6 @@ import ast
 import pandas as pd
 from shapely.geometry import Point
 from shapely.geometry import Polygon
-import os
 
 def getRoom(df):
     """
@@ -25,17 +24,15 @@ def getRoom(df):
         A new DataFrame with an additional column `room`.
 
     """
-    
-    room_coordinates = pd.read_csv('../data/preprocessed/raumkoordinaten_prep_unity.csv', index_col = 0)
-    results = []
-    l = []
+
+    room_coordinates = pd.read_csv('data/preprocessed/Raumkoordinaten/raumkoordinaten_prep_unity.csv', index_col = 0)
     df.columns = df.columns.str.lower()
     if 'y_binary' in df:
         pass
     else:
         df["y_binary"] = ""
-        df.loc[(df["y"] >= -1) & (df["y"] <= 0), "y_binary"] = 1
-        df.loc[(df["y"] >= -10) & (df["y"] <= -6), "y_binary"] = 0
+        df.loc[(df["y"] >= -1) & (df["y"] <= 3), "y_binary"] = 1
+        df.loc[(df["y"] >= -10) & (df["y"] < -1), "y_binary"] = 0
         df = df.loc[df["y_binary"].isin([0,1])]
         df = df.reset_index(drop=True)
     
@@ -55,5 +52,8 @@ def getRoom(df):
             if res:
                 df.loc[i, "room"] = coor_help["room"][c]
     return df
+
+
+
 
 

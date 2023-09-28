@@ -1,0 +1,10 @@
+embeddings {
+  tensor_name: "coordinate_var:01200"
+  metadata_path: "01200/coordinate_var/metadata.tsv"
+  tensor_path: "01200/coordinate_var/tensors.tsv"
+}
+embeddings {
+  tensor_name: "day_new:01200"
+  metadata_path: "01200/day_new/metadata.tsv"
+  tensor_path: "01200/day_new/tensors.tsv"
+}
