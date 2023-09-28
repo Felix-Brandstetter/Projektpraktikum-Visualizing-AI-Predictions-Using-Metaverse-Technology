@@ -3,10 +3,27 @@ from pytorch_forecasting import TemporalFusionTransformer
 import torch
 import torch.nn.functional as F
 import math
+<<<<<<< HEAD
+from src.GetRoom import getRoom
+torch.seed(42)
+
+def resultsSummary(person, best_model_path, val_dataloader):
+    """
+    Erstellt für die jeweilige Person ein Zusammenfassung der Ergebnissen
+    mit den jeweiligen Metriken
+
+    Args:
+        Person, Pfad zum Model, Valdiation Loader
+
+    Returns:
+        Dict mit den jeweiligen Ergebnissen
+    """
+=======
 from teamblue.src.GetRoom import getRoom
 torch.seed(42)
 
 def resultsSummary(person, best_model_path, val_dataloader):
+>>>>>>> 48356b7e9e2c429c30e06ae92529e55b235f8c67
     
     best_model_path
     best_tft = TemporalFusionTransformer.load_from_checkpoint(best_model_path)
@@ -22,6 +39,15 @@ def resultsSummary(person, best_model_path, val_dataloader):
     mse_x = F.mse_loss(actuals[0], predictions[0]).item()
     rmse_x = math.sqrt(mse_x)
 
+<<<<<<< HEAD
+    mae_y = F.l1_loss(actuals[1], predictions[1]).item()
+    mse_y = F.mse_loss(actuals[1], predictions[1]).item()
+    rmse_y = math.sqrt(mse_y)
+
+    mae_z = F.l1_loss(actuals[2], predictions[2]).item()
+    mse_z = F.mse_loss(actuals[2], predictions[2]).item()
+    rmse_z = math.sqrt(mse_z)
+=======
     mae_y = F.l1_loss(actuals[0], predictions[0]).item()
     mse_y = F.mse_loss(actuals[0], predictions[0]).item()
     rmse_y = math.sqrt(mse_x)
@@ -29,6 +55,7 @@ def resultsSummary(person, best_model_path, val_dataloader):
     mae_z = F.l1_loss(actuals[0], predictions[0]).item()
     mse_z = F.mse_loss(actuals[0], predictions[0]).item()
     rmse_z = math.sqrt(mse_x)
+>>>>>>> 48356b7e9e2c429c30e06ae92529e55b235f8c67
 
 
 
